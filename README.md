@@ -1,18 +1,18 @@
-# Progressive Chat — Website
+# PCP — Website
 
-> **Note:** This is a feature-branch repository. The primary development happens in [progressive-android](https://github.com/progressive-chat/progressive-android) — the main repository of the Progressive Chat project.
+> **Note:** This is a feature-branch repository. The primary development happens in [pcp-android](https://github.com/pcp-chat/pcp-android) — the main repository of the PCP project.
 
-Landing page for [Progressive Chat](https://github.com/progressive-chat/progressive-android) — a fast, functional, progressive Matrix client.
+Landing page for [PCP](https://github.com/pcp-chat/pcp-android) — a fast, functional, pcp Matrix client.
 
 ## About
 
-Progressive Chat is a multi-functional chat application built on Matrix. It's a fork of Element Classic with C++ native core rewriting in progress, continuously documented and extended. The goal is pure native code under the hood — snappy, lean, and reliable.
+PCP is a multi-functional chat application built on Matrix. It's a fork of Element Classic with C++ native core rewriting in progress, continuously documented and extended. The goal is pure native code under the hood — snappy, lean, and reliable.
 
 ## Website
 
-Live at [progressive.chat](https://progressive.chat).
+Live at [pcp.chat](https://pcp.chat).
 
 ## Related
 
-- [Progressive Android](https://github.com/progressive-chat/progressive-android) — the Android app
+- [PCP Android](https://github.com/pcp-chat/pcp-android) — the Android app
 - [Matrix.org](https://matrix.org) — the open protocol for secure, decentralised communication
